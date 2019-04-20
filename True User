@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Head -->
+<head>
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="keywords" content="" />
+
+<!--FlexSlider-->
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<!--//FlexSlider-->
+	
+<link href="css/lsb.css" rel="stylesheet" type="text/css"><!-- gallery -->
+
+<!-- custom css theme files -->
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="css/font-awesome.min.css" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<!-- //custom css theme files -->
+
+<!-- google fonts -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'><!--web font-->
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+<!-- //google fonts -->
+
+</head>
+<!-- Body -->
+<body>
+<!-- banner -->
+<div class="w3l-banner">
+<div class="wthree-dot">
+		<!-- nav -->
+		<div class="header w3layouts">
+				<div class="container-fluid">
+					<nav class="navbar navbar-default">
+						<div class="navbar-header navbar-left">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+							<nav>
+								<ul class="nav navbar-nav">
+									<li class="active"><a href="index.html">Home</a></li>
+									<li><a href="#services" class="scroll">Services</a></li>
+									<li><a href="#gallery" class="scroll">Projects</a></li>
+									<li><a href="#testimonials" class="scroll">Team</a></li>
+									<li><a href="#contact" class="scroll">Contact</a></li>
+								</ul>
+								
+							</nav>
+						<ul class="top-links social">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+						</ul>
+						</div>
+					</nav>
+				</div>
+			</div>
+		<!-- //nav -->
+
+		<!-- //Header -->
+		<div class="container">
+			<div class="flexslider-info">
+				<section class="slider">
+					<div class="flexslider">
+						<ul class="slides">
+							<li>
+								<div class="w3l-info">
+									<h3>Welcome to TRUE USER</h3>
+								<p>李德润真他娘的是个大佬.</p>
+								<ul>
+									<li><a href="#" class="w3ls_more" data-toggle="modal" data-target="#myModal">Find More</a></li>
+									<li><a href="#contact" class="scroll w3l_contact">Contact Us</a></li>
+								</ul>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</section>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- //banner -->
+
+<!-- banner bottom -->
+<div class="banner-bottom">
+	<div class="container">
+		<div class="col-md-6 bottomleft">
+			
+		</div>
+		<div class="col-md-6 bottomright">
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<!-- //banner bottom -->
+
+<img src="images/logo.jpg" alt="" />
+
+<!-- services -->
+	<div class="services" id="services">
+		<div class="container">
+		<h3 class="heading">Services</h3>
+			<div class="agileits-services">
+				<div class="services-right-grids">
+					<div class="col-sm-3 services-right-grid">
+						<div class="services-icon hvr-radial-in">
+							<i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+						</div>
+						<div class="services-icon-info">
+							<h5>Solar wind power</h5>
+							<p>Lorem ipsum dolor sit amet, Sedet adipiscing elit. Sed orci enim, posuere sed tincidunt et.</p>
+						</div>
+					</div>
+					<div class="col-sm-3 services-right-grid">
+						<div class="services-icon hvr-radial-in">
+							<i class="fa fa-globe" aria-hidden="true"></i>
+						</div>
+						<div class="services-icon-info">
+							<h5>Geothermal Biomass</h5>
+							<p>Lorem ipsum dolor sit amet, Sedet adipiscing elit. Sed orci enim, posuere sed tincidunt et.</p>
+						</div>
+					</div>
+					<div class="col-sm-3 services-right-grid">
+						<div class="services-icon hvr-radial-in">
+							<i class="fa fa-bolt" aria-hidden="true"></i>
+						</div>
+						<div class="services-icon-info">
+							<h5>Hydrogen & Electricity</h5>
+							<p>Lorem ipsum dolor sit amet, Sedet adipiscing elit. Sed orci enim, posuere sed tincidunt et.</p>
+						</div>
+					</div>
+					<div class="col-sm-3 services-right-grid">
+						<div class="services-icon hvr-radial-in">
+							<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+						</div>
+						<div class="services-icon-info">
+							<h5>Energy Analysis</h5>
+							<p>Lorem ipsum dolor sit amet, Sedet adipiscing elit. Sed orci enim, posuere sed tincidunt et.</p>
+						</div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!-- //services -->
+
+<!--gallery-->
+<div class="gallery" id="gallery">
+	<div class="container">
+		<h3 class="heading">Projects</h3>
+	</div>
+			<ul id="flexiselDemo1">	
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g1.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g1.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g2.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g2.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g3.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g3.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g4.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g4.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g5.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g5.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g6.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g6.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+			<li>
+				<div class="wthree_gallery_grid">
+					<a href="images/g7.jpg" class="lsb-preview" data-lsb-group="header">
+						<div class="view second-effect">
+							<img src="images/g7.jpg" alt="" class="img-responsive" />
+							<div class="mask">
+								<h6>Solar Energy</h6>
+								<p>Geothermal Infrastructure</p>
+							</div>
+						</div>	
+					</a>
+				</div>
+			</li>
+		</ul>
+	</div>
+<!--//gallery-->
+<div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >企业网站模板</a></div>
+<!--/reviews-->
+<div id="testimonials" class="testimonials">
+		<div class="container">
+		<h3 class="heading">一些大佬</h3>
+				<div class="test-monials">
+				<!--//screen-gallery-->
+						<div class="sreen-gallery-cursual">
+							
+						       <div id="owl-demo" class="owl-carousel">
+					                 <div class="item-owl">
+					                	<div class="test-review">
+											<div class="img-agile">
+												<img src="images/ts1.jpg" class="img-responsive" alt=""/>
+											</div>
+											<div class="textagile">
+												<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt 
+													ut labore et doloremagnal aliquyamerat, sed diam voluptua. At vero eos et accusam
+													et justo duo dolores et ea rebum stet kasd gubergren sed diam aliquyamerat, sed voluptua.</p>
+												 <h5>陈濛</h5>
+											</div>
+										</div>
+					                </div>
+					                 <div class="item-owl">
+					                	<div class="test-review">
+											<div class="img-agile">
+												<img src="images/ts2.jpg" class="img-responsive" alt=""/>
+											</div>
+											<div class="textagile">
+												<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt 
+													ut labore et doloremagnal aliquyamerat, sed diam voluptua. At vero eos et accusam
+													et justo duo dolores et ea rebum stet kasd gubergren sed diam aliquyamerat, sed voluptua.</p>
+												<h5>李德润</h5>
+											</div>
+					                	</div>
+					                </div>
+					                 <div class="item-owl">
+					                	<div class="test-review">
+											<div class="img-agile">
+												<img src="images/ts3.jpg" class="img-responsive" alt=""/>
+											</div>
+											<div class="textagile">
+												<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt 
+													ut labore et doloremagnal aliquyamerat, sed diam voluptua. At vero eos et accusam
+													et justo duo dolores et ea rebum stet kasd gubergren sed diam aliquyamerat, sed voluptua.</p>
+												<h5>逄白</h5>
+											</div>
+					                	</div>
+					                </div>
+				              </div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!--//reviews-->
+
+<!-- contact -->
+<div class="contact" id="contact">
+	<div class="container">
+		<h3 class="heading">contact us</h3>
+	</div>
+	<div class="contactright1">
+		<p><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>1680 Richmond St, Corner in, ON N58 3d7, China</p>
+		<p><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>+0(12) 000 123 3120</p>
+		<p><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:info@example.com">mail@example.com</a></p>
+	</div>
+	<iframe src=""></iframe>	
+</div>	
+<!-- //contact -->
+
+<!-- copyright -->
+<div class="wthree_copy_right">
+	<div class="container">
+		<p>Copyright &copy; 2017.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
+			
+	</div>
+</div>
+<!-- //copyright -->
+
+<!-- bootstrap-modal-pop-up -->
+	<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					 Solar energy
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>						
+				</div>
+					<div class="modal-body">
+						<img src="images/1.jpg" alt=" " class="img-responsive" />
+						<p>Ut enim ad minima veniam, quis nostrum 
+							exercitationem ullam corporis suscipit laboriosam, 
+							nisi ut aliquid ex ea commodi consequatur? Quis autem 
+							vel eum iure reprehenderit qui in ea voluptate velit 
+							esse quam nihil molestiae consequatur, vel illum qui 
+							dolorem eum fugiat quo voluptas nulla pariatur.
+							<i>" Quis autem vel eum iure reprehenderit qui in ea voluptate velit 
+								esse quam nihil molestiae consequatur.</i></p>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- //bootstrap-modal-pop-up --> 
+
+<!-- Default-JavaScript-File -->
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<!-- //Default-JavaScript-File -->
+
+<!--Start-slider-script-->
+	<script defer src="js/jquery.flexslider.js"></script>
+		<script type="text/javascript">
+		
+		$(window).load(function(){
+		  $('.flexslider').flexslider({
+			animation: "slide",
+			start: function(slider){
+			  $('body').removeClass('loading');
+			}
+		  });
+		});
+	  </script>
+<!--End-slider-script-->
+
+<!-- testimonials required-js-files-->
+							<link href="css/owl.carousel.css" rel="stylesheet">
+							    <script src="js/owl.carousel.js"></script>
+							        <script>
+							    $(document).ready(function() {
+							      $("#owl-demo").owlCarousel({
+							        items : 1,
+							        lazyLoad : true,
+							        autoPlay : true,
+							        navigation : false,
+							        navigationText :  false,
+							        pagination : true,
+							      });
+							    });
+							    </script>
+<!--// testimonials required-js-files-->
+
+<!-- flexisel -->
+		<script type="text/javascript">
+		$(window).load(function() {
+			$("#flexiselDemo1").flexisel({
+				visibleItems: 4,
+				animationSpeed: 1000,
+				autoPlay: true,
+				autoPlaySpeed: 3000,    		
+				pauseOnHover: true,
+				enableResponsiveBreakpoints: true,
+				responsiveBreakpoints: { 
+					portrait: { 
+						changePoint:480,
+						visibleItems: 1
+					}, 
+					landscape: { 
+						changePoint:640,
+						visibleItems:2
+					},
+					tablet: { 
+						changePoint:768,
+						visibleItems: 2
+					}
+				}
+			});
+			
+		});
+	</script>
+	<script type="text/javascript" src="js/jquery.flexisel.js"></script>
+<!-- //flexisel -->
+
+<!-- gallery-pop-up -->
+	<script src="js/lsb.min.js"></script>
+	<script>
+	$(window).load(function() {
+		  $.fn.lightspeedBox();
+		});
+	</script>
+<!-- //gallery-pop-up -->
+
+<!-- smooth scrolling -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+	<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+								
+			$().UItoTop({ easingType: 'easeOutQuart' });
+								
+			});
+	</script>
+	<!-- //here ends scrolling icon -->
+<!-- smooth scrolling -->
+
+<!-- scrolling script -->
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script> 
+<!-- //scrolling script -->
+	
+</body>
+<!-- //Body -->
+</html>
